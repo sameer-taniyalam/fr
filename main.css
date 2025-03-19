@@ -230,7 +230,7 @@ nav a {
       padding: 0 10px; /* Add padding for better readability */
   }
     body {
-        font-size: 90%;
+        font-size: 100%;
     }
 
     .logo {
@@ -283,7 +283,7 @@ nav a {
   .circle-button {
       width: 150px; /* Adjust size for mobile */
       height: 150px;
-      font-size: 3px; /* Reduce font size */
+      font-size: 30px; /* Reduce font size */
   }
 
     /* Adjust main content layout */
