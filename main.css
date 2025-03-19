@@ -281,9 +281,9 @@ nav a {
   }
 
   .circle-button {
-      width: 80px; /* Adjust size for mobile */
-      height: 80px;
-      font-size: 14px; /* Reduce font size */
+      width: 150px; /* Adjust size for mobile */
+      height: 150px;
+      font-size: 3px; /* Reduce font size */
   }
 
     /* Adjust main content layout */
@@ -334,10 +334,11 @@ nav a {
       margin-bottom: 15px;
   }
 
-  .social-link {
-      font-size: 24px; /* Enlarge social media icons */
-      margin: 0 5px;
-  }
+ .footer-section .social-link {
+  font-size: 30px; /* Increase icon size */
+  margin: 0 10px; /* Add spacing between icons */
+ 
+}
 }
 @media (min-width: 1025px) {
     .nav-links {
