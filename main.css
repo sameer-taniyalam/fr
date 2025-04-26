@@ -203,6 +203,10 @@ nav a {
   padding-top: 10px;
   color: #888;
 }
+
+    .hamburger {
+        display: none; /* Hide hamburger menu */
+    }
 @media (max-width: 992px) {
     /* Reduce font sizes for better readability */
      /* Align profile image and text in column layout */
